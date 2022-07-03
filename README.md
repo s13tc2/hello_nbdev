@@ -2,6 +2,11 @@
 > An amazing tutorial!
 
 
+```
+%load_ext autoreload
+%autoreload 2
+```
+
 This file will become your README and also the index of your documentation.
 
 ## Install
@@ -12,7 +17,7 @@ This file will become your README and also the index of your documentation.
 
 Let's see this at work:
 
-```python
+```
 say_hello('Winston')
 ```
 
